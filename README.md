@@ -23,11 +23,11 @@ To use must be use maven repository:
 ```xml
 <repository>
 	<id>mvn-repo-releases</id>
-	<url>https://raw.github.com/clairton/mvn-repo.git/releases</url>
+	<url>https://raw.github.com/clairton/mvn-repo/releases</url>
 </repository>
 <repository>
 	<id>mvn-repo-snapshot</id>
-	<url>https://raw.github.com/clairton/mvn-repo.git/snapshots</url>
+	<url>https://raw.github.com/clairton/mvn-repo/snapshots</url>
 </repository>
 ```
  And add dependency:
